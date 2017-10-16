@@ -6,4 +6,4 @@ n = number of queries,
 queens = nested list of lists of queen locations, in x, y coordinates 
 queries = nested list of lists of query positions, in x, y coordinates
 
-Returns: a list of boolean values; True if corresponding location is vulnerable.
+Returns: a list of boolean values corresponding to the queries list; True if corresponding location is vulnerable.
